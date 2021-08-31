@@ -21,9 +21,7 @@
                 pip install “SomePackage”</h3>
             <h2 style="color: purple ; font-family: 'Trebuchet MS', sans-serif;">2. NumPy:</h2><h3 style="color:  gray ; font-family: 'Trebuchet MS', sans-serif; font-size: large;"</h3><h3 style="color:  gray ; font-family: 'Trebuchet MS', sans-serif; font-size: large;">NumPy is the essential package for scientific and mathematical computing 
                 in Python. It introduces n-dimensional arrays and matrices, which are necessary when performing sophisticated mathematical operations. It contains functions that perform basic operations on arrays, such as sorting, shaping, and other 
-                mathematical matrix operations. 
-                
-                For example, to create two 2×2 complex matrices and print the sum: </h3><h3 style="color:  rgb(255, 118, 118) ; font-family: 'Trebuchet MS', sans-serif; font-size: large;">ex: import numpy as np
+                mathematical matrix operations.For example, to create two 2×2 complex matrices and print the sum: </h3><h3 style="color:  rgb(255, 118, 118) ; font-family: 'Trebuchet MS', sans-serif; font-size: large;">ex: import numpy as np
 
                     a = np.array([[1+2j, 2+1j], [3, 4]])<br>
                     b = np.array([[5, 6+6j], [7, 8+4j]])<br>
